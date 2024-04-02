@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    border:0;
+    box-sizing: border-box;
+}
+
+#start{
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%);
+    font-size: 30px;
+    background-color: rgb(255, 179, 0);
+    border: 3px solid black;
+}   
+
+#myCanvas{
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    bottom:10%;
+    transform: translate(-50%);
+}
